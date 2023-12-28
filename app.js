@@ -3,7 +3,7 @@ import connect from "./schemas/index.js";
 import usersRouter from "./routes/user.router.js"
 
 const app = express()
-const port = 1000
+const port = 2000
 
 connect()
 
